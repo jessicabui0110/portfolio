@@ -4,7 +4,7 @@ Hello everyone! My name is Jessica Bui, and this is my portfolio.<br>
 I love investigating different types of data, discovering insights, and representing it with beautiful visuals.<br>
 I have a background in Data Administrator and  Business Intelligence.<br>
 
-This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
+This repository was created to showcase my analytical and technical skills (Python, Java, SQL, Power BI, Tableau, and others).
 ## Contents
 * [About me](#about-me)
 * [Personal Projects](#personal-projects)
